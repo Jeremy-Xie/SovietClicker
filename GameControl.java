@@ -20,7 +20,7 @@ public class GameControl {
         object.Update();
 	}
 	
-	public synchronized void Update() {
+	void Update() {
 		while(true) {
 			
 		}
